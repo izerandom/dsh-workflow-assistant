@@ -1,7 +1,7 @@
 {
   "name": "dsh-workflow-assistant",
   "version": "1.0.0",
-  "description": "development-workflow 工作单助手：悬浮胶囊 + 待办（评审/验收门）+ 工作单状态列表 + HTML 查看器；确认/评审/验收操作通过对话框发送文案，不改动工作单文件。",
+  "description": "development-workflow 工作单助手：悬浮胶囊 + 待办（评审/验收门）+ 工作单状态列表 + HTML 查看器；评审/验收通过时由插件勾选工作单对应项并发送确认文案。",
   "license": "MIT",
   "type": "module",
   "main": "lib/index.js",
