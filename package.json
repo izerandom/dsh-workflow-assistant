@@ -17,8 +17,7 @@
     "README.md",
     "INSTALL.md",
     "CHANGELOG.md"
-  ],
-  "dsh": {
+  ],  "dsh": {
     "bundle": {
       "patch": "./cordis.patch.yml"
     },
