@@ -1,0 +1,12 @@
+{
+  "name": "dsh-workflow-assistant",
+  "description": "development-workflow 工作单助手",
+  "version": "1.0.0",
+  "entry": {
+    "name": "dsh-workflow-assistant",
+    "inject": []
+  },
+  "client": {
+    "platform": "web"
+  }
+}

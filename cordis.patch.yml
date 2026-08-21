@@ -1,0 +1,3 @@
+- insert:
+    - id: workflow-assistant
+      name: dsh-workflow-assistant
